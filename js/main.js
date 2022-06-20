@@ -34,5 +34,6 @@ let lager = []
 
 function init(){
     let Buch1 = new Buch (1,"Unterm Rad", )
+    let Buch5 = new Buch (3, "Marie Poooopants", "Karl Lauterbarsch", "1900", "Flitchen", "69")
+    let Buch6 = new  Buch(4,"Star Wurst", "Schorsch Lukas", "3000", "Disney+", "420")
 }
-//KLeine Fotze Jungeeeeee
