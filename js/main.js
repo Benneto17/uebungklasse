@@ -35,4 +35,3 @@ let lager = []
 function init(){
     let Buch1 = new Buch (1,"Unterm Rad", )
 }
-//Dein Bruder lutscht schwänze 
