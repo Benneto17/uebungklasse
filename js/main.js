@@ -34,4 +34,4 @@ let lager = []
 
 function init(){
     let Buch1 = new Buch (1,"Unterm Rad", )
-}  //Bennet du Popel
+}  //Bennet ist fast so schwul wie Franz
