@@ -33,5 +33,8 @@ class Buch{
 let lager = []
 
 function init(){
-    let Buch1 = new Buch (1,"Unterm Rad", )
-}  //Bennet du Popel
+    let Buch1 = new Buch (1,"Unterm Rad", "Hermann Hesse", 934, "fotze", 349)
+    let Buch2 = new Buch (1, "Hery Buda", "klsdfh", 8586, "nutte", 3409857 )
+    let Buch3 = new Buch (5,"Persei Jeksin")
+    let Buch4 = new Buch (9, "John Locke)")
+}
