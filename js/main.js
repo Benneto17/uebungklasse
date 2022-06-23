@@ -34,7 +34,18 @@ let lager = []
 
 function init(){
     let Buch1 = new Buch (1,"Unterm Rad", "Hermann Hesse", 934, "fotze", 349)
+    lager.push(Buch1)
     let Buch2 = new Buch (1, "Hery Buda", "klsdfh", 8586, "nutte", 3409857 )
-    let Buch3 = new Buch (5,"Marie Pooooopants", "Karl Lauterbach", "1980", "Flitchen & Co. AG", "3000")
-    let Buch4 = new Buch (9, "Star Wurst", "Schorsch Lükäse", "2022", "Disney+", "420")
+    lager.push(Buch2)
+    let Buch3 = new Buch (1,"Marie Pooooopants", "Karl Lauterbach", 1980, "Flitchen & Co. AG", 3000)
+    lager.push(Buch3)
+    let Buch4 = new Buch (1, "Star Wurst", "Schorsch Lükäse", 2022, "Disney+", 420)
+    lager.push(Buch4)
 }
+
+function ausDemSortiment(Titel) {
+
+   
+    lager.slice()
+}
+
